@@ -11,7 +11,7 @@ public class JenkinsTestOnlyWebApplication {
 
 	@GetMapping(path="/")
 	String foo(){
-		return "6ix9ine";
+		return "6ix9in90e";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsTestOnlyWebApplication.class, args);
