@@ -11,7 +11,7 @@ public class JenkinsTestOnlyWebApplication {
 
 	@GetMapping(path="/")
 	String foo(){
-		return "heyo jeyo, this is the new docker imageg";
+		return "6ix9ine";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsTestOnlyWebApplication.class, args);
